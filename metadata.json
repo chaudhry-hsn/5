@@ -1,0 +1,9 @@
+
+{
+  "name": "Nova Multisensory Studio",
+  "description": "A high-end creative suite leveraging the full power of Gemini API for text, image generation, video creation, and real-time voice interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
